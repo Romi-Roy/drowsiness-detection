@@ -1,0 +1,12 @@
+{
+  "drowsiness_data": {
+    "state": "sleepy",
+    "timestamp": "2024-10-09T12:34:56Z",
+    "user_id": "user_123",
+    "details": {
+      "eye_aspect_ratio": 0.15,
+      "alertness_score": 80,
+      "head_nod_detected": true
+    }
+  }
+}
