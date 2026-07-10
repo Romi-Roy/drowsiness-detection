@@ -1,4 +1,4 @@
-# SafeDrive - AI Powered Driver Drowsiness Detection & Parking Assistance
+# AI Powered Driver Drowsiness Detection & Parking Assistance
 
 SafeDrive is an end-to-end driver safety system that detects drowsiness in real time and proactively assists drivers in finding a safe place to park before fatigue leads to an accident.
 
